@@ -1,5 +1,4 @@
-po  the index is noyt in src
-in term it is[build]
+ [build]
   command = "pnpm run build"
   publish = "dist"
 
