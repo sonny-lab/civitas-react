@@ -1,0 +1,8 @@
+project-root/
+  package.json
+  index.html
+  _redirects
+  src/
+    main.jsx
+    App.jsx
+    ...
